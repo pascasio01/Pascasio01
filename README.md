@@ -46,7 +46,7 @@ visible para cualquiera que la use.
 
 ## También
 
-**TuDoctor24/7** — plataforma de salud con IA. [tudotor247.com](https://tudotor247.com)
+**TuDoctor24/7** — plataforma de salud con IA. [tudoctor247.com](https://tudoctor247.com)
 
 <br/>
 
