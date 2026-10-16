@@ -1,68 +1,61 @@
----
+<div align="center">
 
-🏥 HealthTech AI Pioneer | Founder @ TuDoctor24/7  
-🧠 Full-Stack Developer (React, Node.js, Python, AI/ML)  
-🚀 Building the future of healthcare technology  
-📍 New York | he/him  
-📧 pascasio01@gmail.com  
+<img src="banner.svg" alt="Pascasio E. Reynoso — Creador de AUTOGENIO" width="100%">
 
----
+</div>
 
-## 👨‍💻 About Me
+<br/>
 
-Soy **Pascasio E. Reynoso**, desarrollador Full-Stack y fundador de **TuDoctor24/7 AI**, una plataforma de salud innovadora que transforma el acceso a la atención médica mediante inteligencia artificial.
+## Qué construyo
 
-## 🛠️ Tech Stack
+**[AUTOGENIO](https://github.com/pascasio01/autogenio)** — *Sovereign Autonomous Intelligence OS*.
+Misiones multiagente con control humano, evidencia verificable y ejecución real.
+Sin demos. Sin simulaciones. Cada cifra sale de una medición o de la base de datos.
 
-### Frontend
-- ⚛️ React / Next.js
-- 🎨 Tailwind CSS / Material UI
-- 📱 React Native (Mobile)
+| | |
+|---|---|
+| **Stack** | React 19 · TypeScript · tRPC 11 · Hono · Drizzle ORM · MySQL |
+| **Núcleo** | Motor de misiones con puerta de evidencia · Trust Kernel SHA-256 · Approval Engine |
+| **IA** | Model Router con `LOCAL ONLY` real · Resource Guardian · Agent Factory (10 agentes) |
+| **Calidad** | 78/78 pruebas · `tsc` estricto · 0 vulnerabilidades en dependencias de producción |
+| **Estado** | v0.12.0 · desarrollo activo · repositorio privado, acceso por invitación |
 
-### Backend
-- 🟢 Node.js / Express
-- 🐍 Python / FastAPI
-- 🔵 PostgreSQL / MongoDB
+<br/>
 
-### AI/ML & DevOps
-- 🤖 TensorFlow / PyTorch
-- 🚀 Docker / Kubernetes
-- ☁️ AWS / Firebase
+## Cómo trabajo — Regla 28
 
-## 🚀 Featured Projects
+> Cada capacidad declarada está implementada y verificada, o etiquetada honestamente
+> con su estado (`VERIFIED` / `SPECIFIED`). Si el sistema no tiene GPU, dice que no
+> tiene GPU. Si la red no se mide, la red no aparece.
 
-### [TuDoctor24/7 AI](https://tudotor247.com)
-- Plataforma de salud 24/7 con IA
-- Atención médica automatizada
-- [Ver Proyecto →](https://tudotor247.com)
+La matriz de honestidad no vive en un PDF: vive dentro de la propia aplicación,
+visible para cualquiera que la use.
 
-### [Nombre Proyecto 2](#)
-- Breve descripción del proyecto
-- Tecnologías utilizadas
-- [Ver Proyecto →](#)
+<br/>
 
-### [Nombre Proyecto 3](#)
-- Breve descripción del proyecto
-- Tecnologías utilizadas
-- [Ver Proyecto →](#)
+## Stack
 
-## 📊 GitHub Stats
+![React](https://img.shields.io/badge/React_19-050810?style=for-the-badge&logo=react&logoColor=61dafb&labelColor=0c1220)
+![TypeScript](https://img.shields.io/badge/TypeScript-050810?style=for-the-badge&logo=typescript&logoColor=3178c6&labelColor=0c1220)
+![Node](https://img.shields.io/badge/Node_20-050810?style=for-the-badge&logo=nodedotjs&logoColor=34d399&labelColor=0c1220)
+![tRPC](https://img.shields.io/badge/tRPC_11-050810?style=for-the-badge&logo=trpc&logoColor=22d3ee&labelColor=0c1220)
+![MySQL](https://img.shields.io/badge/MySQL_·_Drizzle-050810?style=for-the-badge&logo=mysql&logoColor=f29111&labelColor=0c1220)
+![Tailwind](https://img.shields.io/badge/Tailwind_·_shadcn-050810?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8&labelColor=0c1220)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pascasio01&show_icons=true&theme=dark&hide_border=true)
+<br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pascasio01&layout=compact&theme=dark&hide_border=true)
+## También
 
-## 📫 Connect With Me
+**TuDoctor24/7** — plataforma de salud con IA. [tudotor247.com](https://tudotor247.com)
 
-- [LinkedIn](#)
-- [Twitter/X](#)
-- [Portfolio](#)
-- [Email](mailto:pascasio01@gmail.com)
+<br/>
 
----
+## Contacto
 
-<p align="center">
-  <i>💡 "Building technology that saves lives" - Pascasio E. Reynoso</i>
-</p>
+pascasio01@gmail.com · Los reportes de seguridad de AUTOGENIO siguen el canal privado de su [SECURITY.md](https://github.com/pascasio01/autogenio/blob/master/SECURITY.md).
 
----
+<br/>
+
+<div align="center">
+<sub>Sin demos. Sin simulaciones. — <b>Regla 28</b></sub>
+</div>
